@@ -12,7 +12,6 @@ Namaz also called salat; is the ritual prayer of Muslims, performed five times d
 ![Screenshot](https://raw.githubusercontent.com/sarfraznawaz2005/namaz/master/6.jpg)
 ![Screenshot](https://raw.githubusercontent.com/sarfraznawaz2005/namaz/master/7.jpg)
 ![Screenshot](https://raw.githubusercontent.com/sarfraznawaz2005/namaz/master/8.jpg)
-![Screenshot](https://raw.githubusercontent.com/sarfraznawaz2005/namaz/master/9.jpg)
 ![Screenshot](https://raw.githubusercontent.com/sarfraznawaz2005/namaz/master/10.jpg)
 ![Screenshot](https://raw.githubusercontent.com/sarfraznawaz2005/namaz/master/11.jpg)
 ![Screenshot](https://raw.githubusercontent.com/sarfraznawaz2005/namaz/master/12.jpg)
